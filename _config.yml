@@ -21,7 +21,7 @@
 title: "Kia's World"
 email: "glynharris@kirkireton.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Over 20 years experience in leadership, technology, and engineering. A versatile skill set that spans the full spectrum of business environments from agile start-ups to established industry leaders. Demonstratable track record of driving impactful changes resulting in increased employee engagement, elevated customer satisfaction levels, and demonstrable improvements in departmental financials.
+  Over 20 years experience in leadership, technology, and engineering. A versatile skill set that spans the full spectrum of business environments from agile start-ups to established industry leaders. Demonstratable track record of driving impactful changes resulting in increased employee engagement and elevated customer satisfaction levels.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
